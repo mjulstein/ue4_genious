@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.16",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EvilGenious",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
